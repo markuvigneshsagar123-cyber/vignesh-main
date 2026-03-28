@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI Stock Insight",
+  "description": "Real-time Indian stock market analysis and prediction using AI-driven sentiment analysis. Full technical documentation available in DOCUMENTATION.md.",
+  "requestFramePermissions": []
+}
